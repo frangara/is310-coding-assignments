@@ -4,15 +4,15 @@
 
 1. Python
 
-![Python Installation](init-is310-homework/images/python-installation.png)
+![Python Installation](is310-coding-assignments/init-is310-homework/images/python-installation.png)
 
 2. Git
 
-![Git Installation](init-is310-homework/images/git-installation.png)
+![Git Installation](is310-coding-assignments/init-is310-homework/images/git-installation.png)
 
 3. VS Code
 
-![VS Code Installation](init-is310-homework/images/vscode-installation.png)
+![VS Code Installation](is310-coding-assignments/init-is310-homework/images/vscode-installation.png)
 
 4. Discord
 
