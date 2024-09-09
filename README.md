@@ -4,7 +4,7 @@
 
 1. Python
 
-![Python Installation](is310-coding-assignments/init-is310-homework/images/python-installation.png)
+![Python Installation](is310-coding-assignments/init-is310-homework/images/python-installation.PNG)
 
 2. Git
 
