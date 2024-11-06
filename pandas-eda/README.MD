@@ -1,0 +1,2 @@
+## Assignment
+In this Jupyter Notebook I have the NY Times best sellers with the Rank and Time. This shows the disparity of which title holds which rank as well as how it goes during each time. What you will need to run this is altair and pandas.
